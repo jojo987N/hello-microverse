@@ -1,7 +1,5 @@
 # 📖 # Hello Microverse
 
-> Set up a "Hello world" repository with best practices, follow GitHub flow
-
 **Hello Microverse** is a HTML and CSS project repository with best practices, follow Github flow and a descriptive and easy to understand README file .
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -39,17 +37,14 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Homepage**
+- **Linters**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://jojo987n.github.io/hello-microverse/)
 
@@ -64,6 +59,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+sh
 npm install
 
 <!--
